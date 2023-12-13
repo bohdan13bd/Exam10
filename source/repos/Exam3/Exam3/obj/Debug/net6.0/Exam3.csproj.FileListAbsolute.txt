@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\Exam3\Exam3\bin\Debug\net6.0\Exam3.exe
+C:\Users\bogda\source\repos\Exam3\Exam3\bin\Debug\net6.0\Exam3.deps.json
+C:\Users\bogda\source\repos\Exam3\Exam3\bin\Debug\net6.0\Exam3.runtimeconfig.json
+C:\Users\bogda\source\repos\Exam3\Exam3\bin\Debug\net6.0\Exam3.dll
+C:\Users\bogda\source\repos\Exam3\Exam3\bin\Debug\net6.0\Exam3.pdb
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.dll
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\refint\Exam3.dll
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.pdb
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\Exam3.genruntimeconfig.cache
+C:\Users\bogda\source\repos\Exam3\Exam3\obj\Debug\net6.0\ref\Exam3.dll
