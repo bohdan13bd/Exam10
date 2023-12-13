@@ -1,0 +1,4 @@
+C:\Users\bogda\source\repos\Exam10\Exam10\obj\Debug\net6.0\Exam10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Exam10\Exam10\obj\Debug\net6.0\Exam10.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Exam10\Exam10\obj\Debug\net6.0\Exam10.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Exam10\Exam10\obj\Debug\net6.0\Exam10.csproj.CoreCompileInputs.cache
