@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\Exam7\Exam7\bin\Debug\net6.0\Exam7.exe
+C:\Users\bogda\source\repos\Exam7\Exam7\bin\Debug\net6.0\Exam7.deps.json
+C:\Users\bogda\source\repos\Exam7\Exam7\bin\Debug\net6.0\Exam7.runtimeconfig.json
+C:\Users\bogda\source\repos\Exam7\Exam7\bin\Debug\net6.0\Exam7.dll
+C:\Users\bogda\source\repos\Exam7\Exam7\bin\Debug\net6.0\Exam7.pdb
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.dll
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\refint\Exam7.dll
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.pdb
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\Exam7.genruntimeconfig.cache
+C:\Users\bogda\source\repos\Exam7\Exam7\obj\Debug\net6.0\ref\Exam7.dll
